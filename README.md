@@ -7,7 +7,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-[My CV](https://yasmingsdm.github.io/CV/)
+[My CV](https://yasmingsdm.github.io/CV/) -
 [My Portfolio](https://yasmingsdm.github.io/portfolio/)
 
 <div align="center">
