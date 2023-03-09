@@ -9,7 +9,7 @@
 
 
 [My CV](https://yasmingsdm.github.io/CV/) -
-[My Portfolio](https://yasmingsdm.github.io/portfolio/)
+[Games for teaching Portfolio](https://yasmingsdm.github.io/portfolio/)
 
 <div align="center">
   <a href="https://github.com/yasmingsdm">
